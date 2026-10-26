@@ -1,0 +1,31 @@
+# Generated build files
+build/
+build-*/
+cmake-build-*/
+debug/
+release/
+Makefile*
+.qmake.stash
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+# Local editor configuration
+.qtcreator/
+.vs/
+.vscode/
+*.user
+*.user.*
+*.autosave
+# User accounts and chat history
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+server-data/
+tmp/
